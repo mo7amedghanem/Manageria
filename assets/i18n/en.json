@@ -1,0 +1,80 @@
+{
+  "category": {
+    "name": "Mohamed Ghanem",
+    "jop": "Junior Flutter Developer",
+    "sector": "Department Sector",
+    "manager": "Direct Manager (Abu Trika)",
+    "appbar1": "My Profile",
+    "appbar2": "Requests Status",
+    "bnv": "Profile",
+    "language": "Language",
+    "choosed": "English",
+    "mode": "Dark mode",
+    "cancel": "Cancel",
+    "results": "No Requests added"
+
+  },
+  "vacation": {
+    "accidental": "Accident",
+    "normal": "Normal",
+    "administrative": "Administrative",
+    "sick": "Sick",
+    "mission": "Mission",
+    "other": "Other",
+    "iod": "IOD",
+    "type": "Vacation Type",
+    "vac": " Vacation",
+    "aboutLabel": "About",
+    "about": "Manage your departments at any company as it's responsible HR and accept or decline any vacation request coming from the employees",
+    "desc": " is requesting leave request from : ",
+    "to": " to : ",
+    "search": "Search...",
+    "missionTo": "Mission to ",
+    "toast1": "Please Type a valid number",
+    "toast2": "Please complete all the fields",
+    "photo": "Here is your taken photo",
+    "take": "Choose a picture",
+    "day": " For the day : ",
+    "for": " For a ",
+    "choose": "Choose a vacation type",
+    "wedding": "Wedding Anniversary",
+    "marriage": "Marriage Leave",
+    "death": "Death grant",
+    "pick1": "Pick the day",
+    "pick2": "Instead of",
+    "alertHeadline": "Choose Picture From : ",
+    "alert1": "Gallery",
+    "alert2": "Camera"
+  },
+  "request": {
+    "days": "Number of days",
+    "enter": "Enter the date",
+    "send": "Send",
+    "location": "Location",
+    "reason": "Reason",
+    "transport": "Transport",
+    "start": "Start",
+    "accept": "Accept",
+    "accepted": "Accepted",
+    "decline": "Decline",
+    "declined": "Declined"
+
+  },
+  "login": {
+    "loginLabel": "Login",
+    "email": "Email",
+    "password": "Password",
+    "enter": "Sign In"
+  },
+  "language": {
+    "name": {
+      "en": "English",
+      "ar": "Arabic"
+    },
+    "selected_message": "Currently selected language is {language}",
+    "selection": {
+      "message": "Please select a language from the list",
+      "title": "Language Selection"
+    }
+  }
+}
