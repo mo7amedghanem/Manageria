@@ -32,13 +32,13 @@ Manageria screenshots
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5b589113471057.60288f60324ab.png" width="800" ></p>
 
 ---------------------------
-                                                   Vacations screens part 1
+                                           Vacations screens part 1
 ---------------------------
 
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/680a3c113471057.60288f6031d21.png" width="800" ></p>
 
 ---------------------------
-                                                   Vacations screens part 2
+                                            Vacations screens part 2
 ---------------------------
 
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eb354e113471057.60288f60329ac.png" width="800" ></p>
