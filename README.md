@@ -23,37 +23,37 @@ Manageria screenshots
 *********************************
                                                    Manageria
 ---------------------------
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e76e3113284319.602479ac27dcb.png" width="800"> </p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/650849113471057.60288f6030b67.png" width="800"> </p>
 
 ---------------------------
-                                                   News screens
+                                                   Main screens
 ---------------------------
 
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9124b9113284319.602479ac287f3.png" width="800" ></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5b589113471057.60288f60324ab.png" width="800" ></p>
 
 ---------------------------
-                                                   Covid-19 screens
+                                                   Vacations screens part 1
 ---------------------------
 
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/48637f113284319.602479ac28ea6.png" width="800" ></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/680a3c113471057.60288f6031d21.png" width="800" ></p>
+
+---------------------------
+                                                   Vacations screens part 2
+---------------------------
+
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eb354e113471057.60288f60329ac.png" width="800" ></p>
+
+---------------------------
+                                                   Requests status
+---------------------------
+
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/08fd3e113471057.60288f6031137.png" width="800" ></p>
 
 ---------------------------
                                                    Preferences
 ---------------------------
 
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2eb5ec113284319.602479ac282ca.png" width="800" ></p>
-
----------------------------
-                                                   Preferences
----------------------------
-
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2eb5ec113284319.602479ac282ca.png" width="800" ></p>
-
----------------------------
-                                                   Preferences
----------------------------
-
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2eb5ec113284319.602479ac282ca.png" width="800" ></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/68d9c4113471057.60288f603160f.png" width="800" ></p>
 
 *********************************
                                                    Thank you ^_^
